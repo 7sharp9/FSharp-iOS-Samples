@@ -86,7 +86,7 @@
       <HintPath>..\..\..\..\..\Applications\MonoDevelop.app\Contents\MacOS\lib\monodevelop\AddIns\MonoDevelop.MonoMac\MonoMac.dll</HintPath>
     </Reference>
     <Reference Include="System.Core">
-      <HintPath>..\..\..\code\fsharp\lib\debug\2.1\System.Core.dll</HintPath>
+      <HintPath>lib\System.Core.dll</HintPath>
     </Reference>
     <Reference Include="System">
       <HintPath>..\..\..\code\fsharp\lib\debug\2.1\System.dll</HintPath>
