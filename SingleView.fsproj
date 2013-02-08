@@ -42,7 +42,7 @@
     <DefineConstants>DEBUG;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <CodesignKey>iPhone Developer: Dave Thomas (C6JCWCGBCQ)</CodesignKey>
+    <CodesignKey>iPhone Developer</CodesignKey>
     <MtouchProfiling>True</MtouchProfiling>
     <ConsolePause>False</ConsolePause>
     <MtouchDebug>True</MtouchDebug>
@@ -57,7 +57,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>False</ConsolePause>
-    <CodesignKey>iPhone Developer: Dave Thomas (C6JCWCGBCQ)</CodesignKey>
+    <CodesignKey>iPhone Developer</CodesignKey>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Ad-Hoc|iPhone' ">
     <DebugType>none</DebugType>
