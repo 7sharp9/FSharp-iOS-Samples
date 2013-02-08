@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssemblyInfo.fs">
+    <Files>
+      <File FileName="AssemblyInfo.fs" Line="1" Column="1" />
+      <File FileName="AppDelegate.fs" Line="1" Column="1" />
+      <File FileName="Program.fs" Line="1" Column="1" />
+      <File FileName="SingleViewController.fs" Line="1" Column="1" />
+      <File FileName="Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
