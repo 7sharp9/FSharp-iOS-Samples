@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "HttpClient", "HttpClient.fsproj", "{429E422C-5F52-4047-999D-3EFB9D3501FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429E422C-5F52-4047-999D-3EFB9D3501FC}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{429E422C-5F52-4047-999D-3EFB9D3501FC}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{429E422C-5F52-4047-999D-3EFB9D3501FC}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{429E422C-5F52-4047-999D-3EFB9D3501FC}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{429E422C-5F52-4047-999D-3EFB9D3501FC}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{429E422C-5F52-4047-999D-3EFB9D3501FC}.Debug|iPhone.Build.0 = Debug|iPhone
+		{429E422C-5F52-4047-999D-3EFB9D3501FC}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{429E422C-5F52-4047-999D-3EFB9D3501FC}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{429E422C-5F52-4047-999D-3EFB9D3501FC}.Release|iPhone.ActiveCfg = Release|iPhone
+		{429E422C-5F52-4047-999D-3EFB9D3501FC}.Release|iPhone.Build.0 = Release|iPhone
+		{429E422C-5F52-4047-999D-3EFB9D3501FC}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{429E422C-5F52-4047-999D-3EFB9D3501FC}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = HttpClient.fsproj
+	EndGlobalSection
+EndGlobal
